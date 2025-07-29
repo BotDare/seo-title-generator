@@ -23,9 +23,10 @@ What would you like to generate?
 Enter 1 or 2: 1
 
 Enter your notes or main ideas for the content. Press Enter twice when you're done:
-sex life of turtles
+marriage ceritificate loss
+
 
 Generating SEO-friendly title and description...
 
-Title: The Surprising Secrets of Turtle Sex Lives Revealed
-Description: Dive into the fascinating world of turtle mating habits, reproduction, and courtship behaviors. Learn about the unique ways turtles navigate their sex lives in the animal kingdom.
+Title: What to Do If You've Lost Your Marriage Certificate: A Step-by-Step Guide
+Description: Learn how to replace a lost marriage certificate quickly and easily. Follow our step-by-step guide to ensure you have the necessary documentation for legal and personal reasons.
