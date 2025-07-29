@@ -1,20 +1,20 @@
 # 📝 SEO-Friendly Blog & Article Title Generator (with OpenAI)
 
-This is a simple Python-based script that helps you generate **Google-search-friendly titles and descriptions** for blogs or articles based on your notes or content ideas. It uses the OpenAI GPT API (gpt-3.5-turbo) to generate engaging and keyword-optimised output.
+This is a simple Python-based script that helps you generate **Google-search-friendly titles and descriptions** for blogs or articles based on your notes or content ideas. It uses the OpenAI GPT API (`gpt-3.5-turbo`) to generate engaging and keyword-optimised output.
 
 ---
 
 ## 🚀 Features
 
-- Prompt user to choose between Blog or Article
-- Accept content notes interactively
+- Choose between Blog or Article
+- Enter content notes manually
 - Generate SEO-optimised **title** and **description**
-- Powered by OpenAI's language models
-- Command-line interface (simple and lightweight)
+- Supports both **CLI** and **GUI** modes
+- Uses `.env` file to protect your OpenAI API key
 
 ---
 
-## 🖥️ Demo
+## 🖥️ Command-Line Demo
 
 ```bash
 What would you like to generate?
@@ -23,8 +23,7 @@ What would you like to generate?
 Enter 1 or 2: 1
 
 Enter your notes or main ideas for the content. Press Enter twice when you're done:
-marriage ceritificate loss
-
+marriage certificate loss
 
 Generating SEO-friendly title and description...
 
